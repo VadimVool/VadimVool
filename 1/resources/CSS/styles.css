@@ -1,0 +1,41 @@
+
+
+h1{
+    font-size: 100px;
+    color: khaki;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("../images/pattern.webp");
+    text-align: center;
+}
+
+
+.brushes {
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.frames {
+    background-color: lightcoral;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paint {
+    background-color: skyblue;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-weight: bold;
+}
